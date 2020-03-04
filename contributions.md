@@ -21,5 +21,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+|  March 4   |  OpenStreetMap addition   |   OpenStreetMap  |   I added a location   |
+|   March 4  |   OpenStreetMap fix  |  OpenStreetMap   |   I corrected an issue with a location   |
